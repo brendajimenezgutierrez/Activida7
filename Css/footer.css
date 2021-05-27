@@ -1,0 +1,28 @@
+footer{
+    width: 100%;
+
+   
+}
+
+.iconoredes{
+    text-align: center;
+    
+    
+
+}
+
+.ajusteicono{
+    display: inline-flex;
+    margin: 50px 35px;
+    
+}
+
+.textofooter{
+    padding-top: 8px;
+    width: 100%;
+    font-family: cursive;
+    text-align: center;
+    color: white;
+    font-size: 15px;
+    background:  rgb(12, 94, 94);
+}

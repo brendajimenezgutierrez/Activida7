@@ -1,0 +1,53 @@
+.formularioo{
+    width: 400px ;
+    background: rgb(12, 94, 94) ;
+    padding: 30px;
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 4px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: antiquewhite;
+    text-align: center;
+}
+
+.formularioo h2{
+    font-size: 22px;
+    margin-bottom: 20px;
+}
+
+.controls{
+    width: 100%;
+    background: antiquewhite;
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 16px;
+    border: 1px;
+    font-size: 18px;
+}
+
+.formularioo p{
+    height: 40px;
+    text-align: center;
+    font-size: 18px;
+    
+}
+
+.formularioo a{
+    color: white;
+    text-decoration: none;
+}
+
+.formularioo a :hover{
+    color: white;
+    text-decoration: underline;
+}
+
+.formularioo .botons{
+
+    width: 100%;
+    text-align: center;
+    border: none;
+    padding: 12px;
+    margin: 16px 0;
+    font-size: 16px;
+}

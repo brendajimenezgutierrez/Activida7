@@ -1,0 +1,69 @@
+*{
+    box-sizing: border-box;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+
+.lista{
+    text-align: justify;
+    font-family: Georgia, 'Times New Roman', Times, serif ;
+    color: black;
+    list-style: none;
+    text-decoration: none;
+    font-size: 16px;
+}
+.lista ol{
+    color: black;
+    list-style: none;
+    text-decoration: none;
+}
+
+.lista li a{
+    list-style: none;
+    color: black;
+}
+
+.bloquetitulo{
+    width: 95%;
+    display: inline-flex;
+    font-size: 16px;
+    letter-spacing: 1px;
+    margin : 30px;
+    padding-top: 35px;
+
+    text-align:center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: black;
+   
+    background-image:url(../Imagenes/images.jpg);
+    background-attachment: fixed;
+    background-size: 50% 50% ;
+    
+}
+
+.bloquetitulo2{
+    width: 95%;
+    display: inline-flex;
+    font-size: 16px;
+    letter-spacing: 1px;
+    margin : 30px;
+    padding-top: 35px;
+
+    text-align:justify;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: rgb(246, 248, 248);
+
+    background-color:rgb(12, 94, 94) ;
+   
+}
+
+.slider{
+    align-items: center;
+}

@@ -1,0 +1,34 @@
+.mainheader{
+    width: 100%;
+    height: 110px;
+    z-index: 101;
+    background-color: rgb(12, 94, 94);
+    font-family:cursive;
+    font-size: 23px;
+    text-align: center;
+    margin-top: 8xp;
+    }
+
+.menu ul{
+    padding: 0%;
+    margin: 0%;
+    list-style: none;
+    display: inline-flex;
+}
+
+.menu li{
+    padding-top: 15px;
+    padding-left: 30px;
+}
+
+.menu li a:hover{
+color: rgb(50, 199, 179);
+text-decoration: overline;
+}
+
+.menu li a {
+    display: block;
+    padding: 15px;
+    text-decoration: none;
+    color: white;
+}
